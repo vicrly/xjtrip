@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Themes allow you to change the look and feel of your Drupal site. You can use
+=======
+[2/15]Themes allow you to change the look and feel of your Drupal site. You can use
+>>>>>>> 4f22df114cbaee34cee3b907b87d06c10e78e94d
 themes contributed by others or create your own.
 
 WHAT TO PLACE IN THIS DIRECTORY?

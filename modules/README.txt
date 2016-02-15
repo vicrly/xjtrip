@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Modules extend your site functionality beyond Drupal core.
+=======
+﻿[2/15]Modules extend your site functionality beyond Drupal core.
+>>>>>>> 4f22df114cbaee34cee3b907b87d06c10e78e94d
 
 WHAT TO PLACE IN THIS DIRECTORY?
 --------------------------------
@@ -39,4 +43,8 @@ MORE INFORMATION
 ----------------
 
 Refer to the “Developing for Drupal” section of the README.txt in the Drupal
+<<<<<<< HEAD
 root directory for further information on extending Drupal with custom modules.
+=======
+root directory for further information on extending Drupal with custom modules.222测试信息1111
+>>>>>>> 4f22df114cbaee34cee3b907b87d06c10e78e94d
