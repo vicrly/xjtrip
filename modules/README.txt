@@ -1,3 +1,4 @@
+﻿
 ﻿[2/15]Modules extend your site functionality beyond Drupal core.
 
 WHAT TO PLACE IN THIS DIRECTORY?
@@ -39,5 +40,5 @@ MORE INFORMATION
 ----------------
 
 Refer to the “Developing for Drupal” section of the README.txt in the Drupal
-root directory for further information on extending Drupal with custom modules.
+ directory for further information on extending Drupal with custom modules.
 333测试信息1111
