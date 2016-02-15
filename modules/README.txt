@@ -1,4 +1,4 @@
-﻿Modules extend your site functionality beyond Drupal core.
+[2/15]Modules extend your site functionality beyond Drupal core.
 
 WHAT TO PLACE IN THIS DIRECTORY?
 --------------------------------
